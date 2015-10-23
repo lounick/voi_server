@@ -1,0 +1,17 @@
+<package>
+  <description brief="voi_server">
+
+     voi_server
+
+  </description>
+  <author>nick</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/voi_server</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="vehicle_interface"/>
+
+</package>
+
+
